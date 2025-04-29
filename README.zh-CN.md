@@ -29,7 +29,7 @@
 
 1. 克隆此仓库
    ```bash
-   git clone https://github.com/yourusername/tauri-react-shadui-template.git
+   git clone https://github.com/ni00/tauri-react-shadui-template.git
    cd tauri-react-shadui-template
    ```
 

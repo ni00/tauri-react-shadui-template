@@ -29,7 +29,7 @@ This is a desktop application template built with Tauri, React, TypeScript and S
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/tauri-react-shadui-template.git
+   git clone https://github.com/ni00/tauri-react-shadui-template.git
    cd tauri-react-shadui-template
    ```
 
